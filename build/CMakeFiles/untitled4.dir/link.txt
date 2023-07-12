@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/untitled4.dir/untitled4_autogen/mocs_compilation.cpp.o CMakeFiles/untitled4.dir/main.cpp.o CMakeFiles/untitled4.dir/mainwindow.cpp.o CMakeFiles/untitled4.dir/another.cpp.o  -o untitled4  /usr/lib/x86_64-linux-gnu/libQt5Widgets.so.5.12.8 /usr/lib/x86_64-linux-gnu/libQt5Gui.so.5.12.8 /usr/lib/x86_64-linux-gnu/libQt5Core.so.5.12.8 

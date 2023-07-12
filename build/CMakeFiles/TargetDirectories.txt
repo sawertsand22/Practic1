@@ -1,0 +1,4 @@
+/home/sawert/qtprojects/build/CMakeFiles/rebuild_cache.dir
+/home/sawert/qtprojects/build/CMakeFiles/edit_cache.dir
+/home/sawert/qtprojects/build/CMakeFiles/untitled4.dir
+/home/sawert/qtprojects/build/CMakeFiles/untitled4_autogen.dir
